@@ -62,8 +62,8 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier
             }
         ){
             Text(
-                text = stringResource(R.string.roll_text)
-            )
+                text = "roll"
+                    )
         }
     }
 }
