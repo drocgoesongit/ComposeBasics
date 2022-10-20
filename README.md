@@ -1,5 +1,5 @@
 # ComposeBasics
-## Contains code for basic layouts with compose session on Day 2 of compose camp.
+## Contains code for Compose Camp Sessions.
 
 ### Screen shots
 <img src="https://user-images.githubusercontent.com/82268112/193821727-5172ca09-3b02-4ddd-940f-3a213ecdf426.png" alt="drawing" width="200"/>
